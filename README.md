@@ -1,4 +1,3 @@
-# digital-approval-system-repo
 # Digital Paper Approval System (Prototype)
 
 ## Module: Paper Submission
@@ -63,6 +62,6 @@ The project is designed in Java using simple core classes.
 
 
 ### Project Status
-- ✅ Core classes created  
-- ✅ Paper submission flow works  
+- Core classes created  
+- Paper submission flow works  
 - ⚡ Next: Persistent storage & GUI  
