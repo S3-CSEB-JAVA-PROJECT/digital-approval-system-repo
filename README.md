@@ -64,4 +64,4 @@ The project is designed in Java using simple core classes.
 ### Project Status
 - Core classes created  
 - Paper submission flow works  
-- ⚡ Next: Persistent storage & GUI  
+- Next: Persistent storage & GUI  
