@@ -1,0 +1,5 @@
+D1759762899382,Request for Annual Leave,(sample) This paper is submitted to formally request annual leave for personal reasons. The requested leave period is within the allowable balance as per the company's leave policy.,Devangana S S,CSE,CSE B (2),Pending (Dean),Dean,Approved by Tutor: Vengayil Nayana Murali | Approved by HOD: Manoj Kumar G,
+D1759770899021,sample,sample,samplee,CSE,CSE A (4),Pending (Tutor Review),Tutor,Submitted by samplee (next: Tutor),
+P1759807332256,hello,sample,fathima hiba,CSE,CSE A (1),Pending (Tutor),Tutor,Submitted by fathima hiba (next: Tutor) | Sent to Binoy DM Panikar for Tutor approval.,
+P1759814874175,ASSIGNMENT,RSDSUYGSHG,DEVANGANA SS,CSE,CSE B (2),Pending (Tutor),Tutor,Submitted by DEVANGANA SS (next: Tutor) | Sent to Vengayil Nayana Murali for Tutor approval.,
+P1759817248460,sample,hello,devanganass,Devangana S S,CSE,CSE B (2),Rejected by Tutor,Tutor,Submitted by Devangana S S (next: Tutor) | Sent to Prof. Vengayil Nayana Murali for approval. | Rejected by Prof. Vengayil Nayana Murali
